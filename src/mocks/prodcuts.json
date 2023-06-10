@@ -1,0 +1,48 @@
+  {"products": 
+  [{
+    "id": "1", 
+    "title":"Papas Fritas","price":400,"img":"/img/papa.jpeg","category":"Platos","Description": "Noodles with Caramelized Mushrooms"},
+
+     {"id": "2", "title":"Carne con papas","price":250,"img":"/img/tim-toomey-pe9dvM1rQkM-unsplash.jpg","category":"Postres","Description": "Noodles with Caramelized Mushrooms"},
+      {"id": "3", "title":"Carne con papas", 
+      "price":650,
+      "img":"/img/tim-toomey-pe9dvM1rQkM-unsplash.jpg","category":"Entradas","Description": "Noodles with Caramelized Mushrooms"},
+      
+      {"id": "4", "title":"Burger Master",
+       "price":250,"img":"/img/asd.jpg","category":"Entradas","Description": "Noodles with Caramelized Mushrooms"},
+       
+       {"id": "5", "title":"Noodles","price":350,"img":"/img/vegetariano.png","category":"Vegetarianas","Description": "Noodles with Caramelized Mushrooms"},
+
+       {"id": "6", "title":"Roasted Mixed Potatoes","price":650,"img":"/img/Roasted Mixed Potatoes with Spring Herbs and Burrata_.jfif","category":"Vegetarianas","Description": "Roasted Mixed Potatoes with Spring Herbs and Burrata."}
+        
+         
+      ,{"id": "4", "title":"Burger Master",
+      "price":250,"img":"/img/asd.jpg","category":"Ofertas","Description": "Noodles with Caramelized Mushrooms"},
+      
+      {"id": "5", "title":"Noodles","price":350,"img":"/img/vegetariano.png","category":"Vegetarianas","Description": "Noodles with Caramelized Mushrooms"},
+
+      {"id": "6", "title":"Roasted Mixed Potatoes","price":650,"img":"/img/Roasted Mixed Potatoes with Spring Herbs and Burrata_.jfif","category":"Vegetarianas","Description": "Roasted Mixed Potatoes with Spring Herbs and Burrata."}
+       
+      ,{"id": "4", "title":"Burger Master",
+      "price":250,"img":"/img/asd.jpg","category":"Platos","Description": "Noodles with Caramelized Mushrooms"},
+      
+      {"id": "5", "title":"Noodles","price":350,"img":"/img/vegetariano.png","category":"Vegetarianas","Description": "Noodles with Caramelized Mushrooms"},
+
+      {"id": "6", "title":"Roasted Mixed Potatoes","price":650,"img":"/img/Roasted Mixed Potatoes with Spring Herbs and Burrata_.jfif","category":"Vegetarianas","Description": "Roasted Mixed Potatoes with Spring Herbs and Burrata."}
+      ,{"id": "4", "title":"Burger Master",
+      "price":250,"img":"/img/asd.jpg","category":"Entradas","Description": "Noodles with Caramelized Mushrooms"},
+      
+      {"id": "5", "title":"Noodles","price":350,"img":"/img/vegetariano.png","category":"Vegetarianas","Description": "Noodles with Caramelized Mushrooms"},
+
+      {"id": "6", "title":"Roasted Mixed Potatoes","price":650,"img":"/img/Roasted Mixed Potatoes with Spring Herbs and Burrata_.jfif","category":"Vegetarianas","Description": "Roasted Mixed Potatoes with Spring Herbs and Burrata."}
+      ,{"id": "4", "title":"Burger Master",
+      "price":250,"img":"/img/asd.jpg","category":"Entradas","Description": "Noodles with Caramelized Mushrooms"},
+      
+      {"id": "5", "title":"Noodles","price":350,"img":"/img/vegetariano.png","category":"Ofertas","Description": "Noodles with Caramelized Mushrooms"},
+
+      {"id": "6", "title":"Roasted Mixed Potatoes","price":650,"img":"/img/Roasted Mixed Potatoes with Spring Herbs and Burrata_.jfif","category":"Vegetarianas","Description": "Roasted Mixed Potatoes with Spring Herbs and Burrata."}
+       
+        
+        
+        
+        ]}
